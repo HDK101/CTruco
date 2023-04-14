@@ -29,6 +29,12 @@
             <version>${project.version}</version>
         </dependency>
         <dependency>
+            <groupId>com.bueno</groupId>
+            <artifactId>wrkncacnter-bot-impl</artifactId>
+            <version>1.2.0-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
             <version>5.3.22</version>
